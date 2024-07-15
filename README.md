@@ -25,7 +25,7 @@ MigrationTools est un script PowerShell conçu pour faciliter la sauvegarde et l
 
 1. Clonez le dépôt GitHub :
     ```sh
-    git clone https://github.com/votre-utilisateur/MigrationTools.git
+    git clone https://github.com/Nakwi/MigrationTools.git
     ```
 2. Accédez au répertoire du script :
     ```sh
